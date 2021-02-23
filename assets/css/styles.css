@@ -9,3 +9,9 @@ img {
   margin-right: auto!important;
 }
 
+@media (min-width: 300px) {
+  #Spotify-Follow {
+    padding-left: 120px;
+  }
+}
+
